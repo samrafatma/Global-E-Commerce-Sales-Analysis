@@ -1,6 +1,5 @@
-# Global-E-Commerce-Sales-Analysis
+# Global-E-Commerce-Sales-Analysis Dashboard
 Power BI dashboard analyzing global e-commerce-sales performance, profit trends, and customer insights.
-# Global Sales Store Analysis Dashboard
 
 ## Project Overview
 This project is a Power BI dashboard developed to analyze global sales performance, customer behavior, and profitability trends.
